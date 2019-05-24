@@ -12,6 +12,7 @@
     <packaging>war</packaging>
     <name>Time Tracker (Web)</name>
 
+
     <dependencies>
         <dependency>
             <groupId>training.taylor.time-tracker</groupId>
